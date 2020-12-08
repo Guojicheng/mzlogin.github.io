@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 44的职场,新入安全渗透,新入管理界面, 写作学习
+keywords: 写作学习
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+描述感知原来也不那么容易, 写教程时描述足够新颖的感知会多一些难度
 
 ## 联系
 
