@@ -19,14 +19,14 @@ mindmap: true
 ### 超链接
 
 ```
-[靠谱-ing](https://mazhuang.org)
+[靠谱-ing](https://blog.feihuazhaiye.xyz)
 
-<https://mazhuang.org>
+<https://blog.feihuazhaiye.xyz>
 ```
 
-[靠谱-ing](https://mazhuang.org)  
+[靠谱-ing](https://blog.feihuazhaiye.xyz)  
 
-<https://mazhuang.org>
+<https://blog.feihuazhaiye.xyz>
 
 ### 列表
 

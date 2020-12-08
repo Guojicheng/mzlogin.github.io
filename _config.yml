@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://blog.feihuazhaiye.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 训虎
+subtitle: "公众号: none"
+description: "44还没有“ 不惑”,反而还常常闯祸.没能力带货,只能努力好好活"
+keywords: Gordan, 空心木鱼, jicheng, 半吊子运维, ms08067安全小组成员, 李笑来写作课实践
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: 
-organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Gordan
+organization:
+organization_url:
+github_username: Guojicheng
+location: Shanghai, China
+email: jicheng.guo@139.com
 
 # ---------------- #
 #    Navigation    #
@@ -115,17 +115,7 @@ collections:
 comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
-# https://disqus.com
-disqus:
-    username: 
-# https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# https://github.com/gitalk/gitalk#install
+
 gitalk:
     owner: mzlogin
     repo: blog-comments
@@ -150,6 +140,6 @@ google:
     analytics_id: UA-80669434-1
     adsense:
         footer: true
-        sidebar: true 
+        sidebar: true
         content_header: true
         content_footer: false
